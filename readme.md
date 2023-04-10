@@ -4,9 +4,6 @@ SVG Logo Genrator is a Node.js command-line application that allows users to gen
 ## Walkthrough Video
 For a demonstration of the application's functionality and passing tests, check out the walkthrough video.
 
-## Walkthrough Video
-For a demonstration of the application's functionality and passing tests, check out the walkthrough video.
-
 
 [URL]!(https://github.com/novasm55/SVG-Logo-Generator/blob/986959227a2f55ef05ace5f4f55fa4d1098c7cbb/SVG%20Logo%20Generator%20Walkthrough.mp4)
 
