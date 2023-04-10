@@ -1,6 +1,6 @@
 
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="300" height="200">
-        <polygon points="150, 18 244, 182 56, 182" fill="White" />
-        <text x="50%" y="50%" text-anchor="middle" fill="Black" font-family="sans-serif" font-size="50">ABC</text>
+        <rect x="85" y="35" width="130" height="130" fill="Pink" />
+        <text x="50%" y="50%" text-anchor="middle" fill="Purple" font-family="sans-serif" font-size="50">SVG</text>
       </svg>
     
