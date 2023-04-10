@@ -14,6 +14,7 @@ For a demonstration of the application's functionality and passing tests, check 
 ### Installation
 ### Usage
 ### Tests
+### Contributors
 
 
 ## Installation
