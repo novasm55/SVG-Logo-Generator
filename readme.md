@@ -1,4 +1,4 @@
-### SVG Logo Generator
+# SVG Logo Generator
 SVG Logo Genrator is a Node.js command-line application that allows users to generate simple logos and save them as SVG files. The application prompts users to input the text, text color, shape, and shape color for the logo, then creates an SVG file based on the input.
 
 ## Walkthrough Video
@@ -13,10 +13,10 @@ For a demonstration of the application's functionality and passing tests, check 
 
 
 ## Table of Contents
-# Walkthrough Video
-# Installation
-# Usage
-# Tests
+### Walkthrough Video
+### Installation
+### Usage
+### Tests
 
 
 ## Installation
@@ -59,3 +59,6 @@ To run the tests for the shape classes, use the following command:
 
 npm test
 
+## Contributors
+
+Michael Novas
