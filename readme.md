@@ -30,7 +30,7 @@ Navigate to the project directory and install dependencies:
 
 (bash)
 
-cd svg-logo-maker
+cd svg-logo-generator
 npm install
 
 ## Usage
